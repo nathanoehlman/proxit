@@ -1,5 +1,5 @@
 {
-  "name": "proxit",
+  "name": "proxim",
   "version": "1.0.0",
   "description": "Really simple TCP proxy",
   "main": "index.js",
