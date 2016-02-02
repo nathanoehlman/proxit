@@ -1,6 +1,6 @@
 {
   "name": "proxim",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Really simple TCP proxy",
   "main": "index.js",
   "scripts": {
